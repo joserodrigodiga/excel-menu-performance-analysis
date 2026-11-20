@@ -1,6 +1,5 @@
-# menu-performance-analysis
-Excel analysis of 13 months of sales data to choose items for 2027 planned store menu.
 # Menu Performance Analysis
+Menu performance analysis in Excel: ranking sandwiches and rice toppers for a new store
 
 **Question:** Which items should be added to the 2027 new store menu?
 
