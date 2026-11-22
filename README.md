@@ -25,7 +25,7 @@ RT1 and RT4 followed, with consistency of 31% and 24.5%.
 - January and July were the strongest months, which may be linked to New Year spending and the store anniversary.
 
 ## Dashboard
-![Dashboard](excel-dashboard.jpg)
+![Dashboard](excel-db-thumbnail.png)
 
 ## Limitations
 - Items were ranked by sales performance, not profit. 
