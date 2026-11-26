@@ -45,7 +45,7 @@ The owner noted that customers ask for rice meals that is why they added rice to
 Include items S4, S2, RT5, RT4, and RT1 in the menu of the new store in 2027, pending a margin review. Keep item S3 on watch because of its rising trend of 79%.
 
 ## Dashboard
-![Dashboard]()
+![Dashboard](excel-dashboard.png)
 
 ## Limitations
 - No cost data: Items were ranked by sales performance, not pprofit.
